@@ -1,6 +1,5 @@
 ### Olá! eu sou o Andrew Sobrera
 ##
-
 - 🔭 Hoje trabalho com programação web ultilizando as linguagens PHP e JavaScript
 - 🌱 Estudando React-Native, React e Java
 
