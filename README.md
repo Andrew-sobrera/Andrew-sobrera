@@ -1,8 +1,8 @@
-### Olá! eu sou o Andrew Sobrera
+### <div align="center">Olá! eu sou o Andrew Sobrera</div> 
 ##
 - 🔭 Hoje trabalho com programação web ultilizando as linguagens PHP e JavaScript
 - 🌱 Estudando React-Native, React e Java
-
+</br>
 <div align="center">
   <a href="https://github.com/Andrew-sobrera">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrew-sobrera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
