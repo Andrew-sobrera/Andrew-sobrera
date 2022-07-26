@@ -1,7 +1,7 @@
 ### <div align="center">Olá! eu sou o Andrew Sobrera</div> 
 ##
-- 🔭 Hoje trabalho com programação web ultilizando as linguagens PHP e JavaScript
-- 🌱 Estudando React-Native, React e Java
+- 🔭 Hoje trabalho com programação web 
+- 🌱 Estudando React e Java
 </br>
 <div align="center">
   <a href="https://github.com/Andrew-sobrera">
