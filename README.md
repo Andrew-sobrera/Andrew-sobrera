@@ -1,7 +1,5 @@
 ### <div align="center">Olá! eu sou o Andrew Sobrera</div> 
 ##
-- 🔭 Hoje trabalho com programação web 
-- 🌱 Estudando Vue.Js e Laravel
 </br>
 <div align="center">
   <a href="https://github.com/Andrew-sobrera">
